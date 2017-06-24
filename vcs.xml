@@ -18,6 +18,14 @@
           <option name="url" value="https://github.com/ChartBoost/client-examples/tree/master/android/ChartboostExample" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ChartBoost/client-examples/tree/master/android/ChartboostExample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ChartBoost/client-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ankit gehlot\Desktop\kooky_proj\" />
